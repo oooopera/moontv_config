@@ -522,64 +522,106 @@
       "detail": "http://api.xinlangapi.com"
     },
     "109": {
-      "name": "🎬猫眼资源",
-      "api": "https://api.maoyanapi.top/api.php/provide/vod",
-      "detail": "https://www.maoyanzy.com"
-    },
-    "110": {
       "name": "美少女资源",
       "api": "https://www.msnii.com/api/json.php",
       "detail": "https://www.msnii.com"
     },
-    "111": {
-      "api": "https://api.maoyanapi.top/api.php/provide/vod/at/json",
-      "name": "猫眼资源",
-      "detail": "https://api.maoyanapi.top",
-      "is_adult": false
-    },
-    "112": {
-      "api": "https://api.maoyanapi.top/api.php/provide",
-      "name": "猫眼资源",
-      "detail": "https://www.maoyanzy.com"
-    },
-    "113": {
-      "api": "http://ffzy1.tv/api.php/provide/vod",
-      "name": "非凡线路1",
-      "detail": ""
-    },
-    "114": {
+    "110": {
       "name": "🎬虎牙资源",
       "api": "https://www.huyaapi.com/api.php/provide/vod/at/json",
       "detail": "https://www.huyaapi.com"
     },
-    "115": {
+    "111": {
       "name": "🎬茅台资源",
       "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
       "detail": "https://mtzy.me"
     },
-    "116": {
+    "112": {
       "api": "https://360zy.com/api.php/provide/vod",
       "name": "360资源"
     },
-    "117": {
+    "113": {
       "name": "新浪",
       "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/josn",
       "detail": "https://api.xinlangapi.com"
     },
-    "118": {
+    "114": {
       "name": "虎牙",
       "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8",
       "detail": "https://www.huyaapi.com"
     },
-    "119": {
+    "115": {
       "name": "CK资源",
       "api": "https://ckzy.me/api.php/provide/vod/?ac=list",
       "detail": "https://www.ckzy1.com"
     },
-    "120": {
+    "116": {
       "name": "Ikun资源（备用）",
       "api": "https://www.ikunzy.com/api.php/provide/vod",
       "detail": "https://www.ikunzy.com/"
+    },
+    "117": {
+      "name": "🎬U酷影视",
+      "api": "https://api.ukuapi88.com/api.php/provide/vod",
+      "detail": "https://www.ukuzy.com"
+    },
+    "118": {
+      "name": "🎬如意资源",
+      "api": "https://pz.v88.qzz.io/?url=https://cj.rycjapi.com/api.php/provide/vod",
+      "detail": "https://www.ryzyw.com"
+    },
+    "119": {
+      "name": "🎬豪华资源",
+      "api": "https://pz.v88.qzz.io/?url=https://hhzyapi.com/api.php/provide/vod",
+      "detail": "https://www.haohuazy.com"
+    },
+    "120": {
+      "name": "🎬百度云zy",
+      "api": "https://pz.v88.qzz.io/?url=https://api.apibdzy.com/api.php/provide/vod",
+      "detail": "https://bdzy1.com"
+    },
+    "121": {
+      "name": "🎬艾旦影视",
+      "api": "https://pz.v88.qzz.io/?url=https://lovedan.net/api.php/provide/vod",
+      "detail": "https://lovedan.net"
+    },
+    "122": {
+      "api": "https://api.ukuapi.com/api.php/provide/vod",
+      "name": "U酷资源",
+      "detail": "https://api.ukuapi.com"
+    },
+    "123": {
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod/at/josn",
+      "name": "红牛",
+      "detail": "https://hongniuzy.net"
+    },
+    "124": {
+      "name": "U酷资源网",
+      "api": "https://api.ukuapi88.com/api.php/provide/vod/?ac=list",
+      "detail": ""
+    },
+    "125": {
+      "name": "🎬 无广1线 (非凡)",
+      "api": "https://yonghu.ffzyapi8.com/api.php/provide/vod/from/ffm3u8/at/json/",
+      "detail": "https://yonghu.ffzyapi8.com",
+      "is_adult": false
+    },
+    "126": {
+      "name": "🎬 少广9线 (360)",
+      "api": "https://360zy.com/api.php/provide/vod?",
+      "detail": "https://360zy.com/api.php/provide/vod?",
+      "is_adult": false
+    },
+    "127": {
+      "name": "🎬 七星秒播2",
+      "api": "http://cj.lziapi.com/api.php/provide/vod/",
+      "detail": "http://cj.lziapi.com/api.php/provide/vod/",
+      "is_adult": false
+    },
+    "128": {
+      "name": "🎬 ikunzy资源",
+      "api": "https://www.ikunzy.com/api.php/provide/vod/",
+      "detail": "https://www.ikunzy.com"
     }
   },
   "custom_category": [
@@ -722,11 +764,6 @@
       "name": "纪录片",
       "type": "tv",
       "query": "纪录片"
-    },
-    {
-      "name": "治愈",
-      "type": "movie",
-      "query": "治愈"
     }
   ]
 }
