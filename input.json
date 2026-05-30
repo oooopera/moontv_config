@@ -240,417 +240,435 @@
       "detail": "https://kuaichezy.com"
     },
     "50": {
-      "name": "淘片资源网",
-      "api": "https://taopianapi.com/cjapi/mc10/vod/json.html",
-      "detail": ""
-    },
-    "51": {
       "name": "🎬最大资源",
       "api": "https://api.zuidapi.com/api.php/provide/vod",
       "detail": "https://zuida.xyz"
     },
-    "52": {
+    "51": {
       "api": "https://xsd.sdzyapi.com/api.php/provide/vod",
       "name": "索尼-闪电资源"
     },
-    "53": {
+    "52": {
       "name": "閃電资源",
       "api": "https://sdzyapi.com/api.php/provide/vod",
       "detail": "https://sdzyapi.com"
     },
-    "54": {
+    "53": {
       "api": "https://zy.xiaomaomi.cc/api.php/provide/vod",
       "name": "小猫咪资源",
       "detail": "https://zy.xiaomaomi.cc"
     },
-    "55": {
+    "54": {
       "api": "https://api.1080zyku.com/inc/api.php/provide/vod/",
       "name": "1080资源"
     },
-    "56": {
+    "55": {
       "api": "http://sdzyapi.com/api.php/provide/vod",
       "name": "闪电",
       "detail": "http://sdzyapi.com"
     },
-    "57": {
+    "56": {
       "api": "http://sdzyapi.com/api.php/provide/vod/",
       "name": "闪电|点播"
     },
-    "58": {
+    "57": {
       "name": "🎬无尽资源",
       "api": "https://api.wujinapi.me/api.php/provide/vod",
       "detail": "https://wujinzy.com"
     },
-    "59": {
+    "58": {
       "api": "https://api.wujinapi.cc/api.php/provide/vod",
       "name": "无尽资源",
       "detail": "https://api.wujinapi.cc",
       "is_adult": false
     },
-    "60": {
+    "59": {
       "api": "https://api.wujinapi.net/api.php/provide/vod",
       "name": "无尽资源",
       "detail": "https://api.wujinapi.net",
       "is_adult": false
     },
-    "61": {
+    "60": {
       "name": "OK资源采集网采集接口",
       "api": "http://api.okzyw.net/api.php/provide/vod"
     },
-    "62": {
+    "61": {
       "name": "TV-无尽资源",
       "api": "https://api.wujinapi.com/api.php/provide/vod",
       "detail": ""
     },
-    "63": {
+    "62": {
       "name": "🎬-爱奇艺-",
       "api": "https://iqiyizyapi.com/api.php/provide/vod",
       "detail": "https://iqiyizyapi.com"
     },
-    "64": {
+    "63": {
       "api": "https://ckzy.me/api.php/provide/vod",
       "name": "CK资源",
       "detail": "https://ckzy.me"
     },
-    "65": {
+    "64": {
       "api": "https://api.wujinapi.com/api.php/provide/vod/",
       "name": "无尽|点播"
     },
-    "66": {
+    "65": {
       "api": "https://360zy.com/api.php/provide/vod",
       "name": "360资源"
     },
-    "67": {
+    "66": {
       "name": "CK资源",
       "api": "https://ckzy.me/api.php/provide/vod/?ac=list",
       "detail": "https://www.ckzy1.com"
     },
-    "68": {
+    "67": {
       "name": "Ikun资源（备用）",
       "api": "https://www.ikunzy.com/api.php/provide/vod",
       "detail": "https://www.ikunzy.com/"
     },
-    "69": {
+    "68": {
       "name": "🎬 无广1线 (非凡)",
       "api": "https://yonghu.ffzyapi8.com/api.php/provide/vod/from/ffm3u8/at/json/",
       "detail": "https://yonghu.ffzyapi8.com",
       "is_adult": false
     },
-    "70": {
+    "69": {
       "name": "🎬 少广9线 (360)",
       "api": "https://360zy.com/api.php/provide/vod?",
       "detail": "https://360zy.com/api.php/provide/vod?",
       "is_adult": false
     },
-    "71": {
+    "70": {
       "name": "🎬 ikunzy资源",
       "api": "https://www.ikunzy.com/api.php/provide/vod/",
       "detail": "https://www.ikunzy.com"
     },
-    "72": {
+    "71": {
       "name": "🎬猫眼资源",
       "api": "https://api.maoyanapi.top/api.php/provide/vod",
       "detail": "https://www.maoyanzy.com"
     },
-    "73": {
+    "72": {
       "api": "https://api.maoyanapi.top/api.php/provide/vod/at/json",
       "name": "猫眼资源",
       "detail": "https://api.maoyanapi.top",
       "is_adult": false
     },
-    "74": {
+    "73": {
       "api": "https://api.maoyanapi.top/api.php/provide",
       "name": "猫眼资源",
       "detail": "https://www.maoyanzy.com"
     },
-    "75": {
-      "name": "🎬速播资源",
-      "api": "https://subocaiji.com/api.php/provide/vod",
-      "detail": "https://www.subozy.com"
-    },
-    "76": {
+    "74": {
       "name": "🎬金鹰点播",
       "api": "https://jinyingzy.com/api.php/provide/vod",
       "detail": "https://jinyingzy.com"
     },
-    "77": {
+    "75": {
       "api": "https://www.hongniuzy3.com/api.php/provide/vod",
       "name": "红牛资源"
     },
-    "78": {
+    "76": {
       "api": "https://jyzyapi.com/provide/vod",
       "name": "金鹰资源采集网"
     },
-    "79": {
+    "77": {
       "api": "https://hhzyapi.com/api.php/provide/vod",
       "name": "豪华资源",
       "detail": "https://hhzyapi.com"
     },
-    "80": {
+    "78": {
       "api": "https://jyzyapi.com/api.php/provide/vod",
       "name": "金鹰资源",
       "detail": "https://jyzyapi.com",
       "is_adult": false
     },
-    "81": {
+    "79": {
       "name": "TV-金鹰资源",
       "api": "https://jyzyapi.com/provide/vod/from/jinyingyun/at/json",
       "detail": "https://jinyingzy.net"
     },
-    "82": {
+    "80": {
       "api": "https://jinyingzy.com/api.php/provide/vod/",
       "name": "金鹰|点播"
     },
-    "83": {
-      "api": "https://subocaiji.com/api.php/provide/vod/",
-      "name": "速博|点播"
-    },
-    "84": {
+    "81": {
       "name": "TV-新浪资源",
       "api": "http://api.xinlangapi.com/xinlangapi.php/provide/vod",
       "detail": "http://api.xinlangapi.com"
     },
-    "85": {
+    "82": {
       "name": "金鹰资源",
       "api": "https://jyzyapi.com/provide/vod/from/jinyingm3u8/at/json",
       "detail": "https://jinyingzy.com"
     },
-    "86": {
+    "83": {
       "api": "https://hhzyapi.com/api.php/provide/vod/from/hhm3u8/at/json",
       "name": "🔞豪华资源",
       "detail": "",
       "is_adult": true
     },
-    "87": {
+    "84": {
       "name": "虎牙资源",
       "api": "https://www.huyaapi.com/api.php/provide/vod",
       "detail": "https://www.huyaapi.com"
     },
-    "88": {
+    "85": {
       "api": "https://www.huyaapi.com/api.php/provide/vod/",
       "name": "虎牙资源"
     },
-    "89": {
+    "86": {
       "api": "http://cj.rycjapi.com/api.php/provide/vod",
       "name": "如意资源"
     },
-    "90": {
+    "87": {
       "name": "好色资源网采集接口地址",
       "api": "https://haosezyw.com/api.php/provide/vod"
     },
-    "91": {
+    "88": {
       "name": "🎬U酷影视",
       "api": "https://api.ukuapi88.com/api.php/provide/vod",
       "detail": "https://www.ukuzy.com"
     },
-    "92": {
+    "89": {
       "api": "https://api.ukuapi.com/api.php/provide/vod",
       "name": "TV-U酷资源",
       "detail": "https://api.ukuapi.com"
     },
-    "93": {
+    "90": {
       "api": "https://api.ukuapi.com/api.php/provide/vod/",
       "name": "U酷|点播"
     },
-    "94": {
-      "api": "https://subocj.com/api.php/provide/vod",
-      "name": "速播资源"
-    },
-    "95": {
+    "91": {
       "name": "🎬虎牙资源",
       "api": "https://www.huyaapi.com/api.php/provide/vod/at/json",
       "detail": "https://www.huyaapi.com"
     },
-    "96": {
+    "92": {
       "api": "https://api.okzyw.net/api.php/provide/vod",
       "name": "TV-OK资源",
       "detail": "https://okzyw.cc/index.php/label/help.html"
     },
-    "97": {
+    "93": {
       "api": "https://tiankongzy.cc/api.php/provide/vod",
       "name": "天空资源"
     },
-    "98": {
+    "94": {
       "name": "🎬卧龙资源",
       "api": "https://wolongzyw.com/api.php/provide/vod",
       "detail": "https://wolongzyw.com"
     },
-    "99": {
+    "95": {
       "api": "https://dbzy.tv/api.php/provide/vod",
       "name": "TV-豆瓣资源",
       "detail": "https://dbzy.tv"
     },
-    "100": {
-      "api": "https://haosezyw.com/api.php/provide/vod/",
-      "name": "好色资源|AV"
-    },
-    "101": {
+    "96": {
       "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8",
       "name": "虎牙",
       "detail": "https://www.huyaapi.com"
     },
-    "102": {
+    "97": {
       "api": "https://api.ukuapi88.com/api.php/provide/art/?ac=list",
       "name": "U酷资源",
       "detail": ""
     },
-    "103": {
+    "98": {
       "name": "🎬新浪资源",
       "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
       "detail": "https://xinlangapi.com"
     },
-    "104": {
+    "99": {
       "name": "🎬飘零资源",
       "api": "https://p2100.net/api.php/provide/vod",
       "detail": "https://p2100.net"
     },
-    "105": {
+    "100": {
       "name": "🎬豆瓣资源",
       "api": "https://caiji.dbzy5.com/api.php/provide/vod",
       "detail": "https://dbzy.tv"
     },
-    "106": {
+    "101": {
       "api": "https://p2100.net/api.php/provide/vod/",
       "name": "飘零|点播"
     },
-    "107": {
+    "102": {
       "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
       "name": "新浪|点播"
     },
-    "108": {
+    "103": {
       "name": "🎬豪华资源",
       "api": "https://pz.v88.qzz.io/?url=https://hhzyapi.com/api.php/provide/vod",
       "detail": "https://www.haohuazy.com"
     },
-    "109": {
+    "104": {
       "name": "🎬百度云zy",
       "api": "https://pz.v88.qzz.io/?url=https://api.apibdzy.com/api.php/provide/vod",
       "detail": "https://bdzy1.com"
     },
-    "110": {
+    "105": {
       "name": "🎬艾旦影视",
       "api": "https://pz.v88.qzz.io/?url=https://lovedan.net/api.php/provide/vod",
       "detail": "https://lovedan.net"
     },
-    "111": {
+    "106": {
       "name": "雨哥哥资源",
       "api": "http://cj.baozi66.top:66/api.php/provide/vod",
       "detail": "http://cj.baozi66.top:66"
     },
-    "112": {
+    "107": {
       "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/josn",
       "name": "新浪",
       "detail": "https://api.xinlangapi.com"
     },
-    "113": {
+    "108": {
       "name": "🎬茅台资源",
       "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
       "detail": "https://mtzy.me"
     },
-    "114": {
+    "109": {
       "name": "🎬红牛资源",
       "api": "https://www.hongniuzy2.com/api.php/provide/vod",
       "detail": "https://www.hongniuzy.com"
     },
-    "115": {
+    "110": {
       "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
       "name": "红牛|点播"
     },
-    "116": {
+    "111": {
       "api": "https://www.hongniuzy2.com/api.php/provide/vod/at/josn",
       "name": "红牛",
       "detail": "https://hongniuzy.net"
     },
-    "117": {
+    "112": {
       "name": "🔞丝袜资源",
       "api": "https://siwazyw.tv/api.php/provide/vod/at/json",
       "detail": "https://siwazyw.tv"
     },
-    "118": {
+    "113": {
       "name": "🎬量子资源",
       "api": "https://cj.lzcaiji.com/api.php/provide/vod",
       "detail": "https://cj.lzcaiji.com"
     },
-    "119": {
+    "114": {
       "api": "https://cj.lziapi.com/api.php/provide/vod",
       "name": "TV-量子资源",
       "detail": ""
     },
-    "120": {
+    "115": {
       "api": "https://cj.lziapi.com/api.php/provide/vod/",
       "name": "影视工厂"
     },
-    "121": {
+    "116": {
       "_comment": "污染搜索结果",
       "name": "aTV-丝袜资源",
       "api": "https://siwazyw.tv/api.php/provide/vod",
       "detail": "https://siwazyw.tv"
     },
-    "122": {
+    "117": {
       "name": "U酷资源网",
       "api": "https://api.ukuapi88.com/api.php/provide/vod/?ac=list",
       "detail": ""
     },
-    "123": {
+    "118": {
       "name": "🎬 七星秒播2",
       "api": "http://cj.lziapi.com/api.php/provide/vod/",
       "detail": "http://cj.lziapi.com/api.php/provide/vod/",
       "is_adult": false
     },
-    "124": {
+    "119": {
       "api": "https://caiji.maotaizy.cc/api.php/provide/vod/at/josn/",
       "name": "茅台资源",
       "detail": ""
     },
-    "125": {
+    "120": {
       "api": "https://www.ckzy1.com/api.php/provide/vod",
       "name": "🔞CK资源",
       "detail": "",
       "is_adult": true
     },
-    "126": {
+    "121": {
       "api": "http://zmcj88.com/api?ac=list",
       "name": "🔞泡芙资源",
       "detail": "",
       "is_adult": true
     },
-    "127": {
+    "122": {
       "name": "西瓜资源采集接口",
       "api": "https://caiji.xgzyapi.com/api.php/provide/vod"
     },
-    "128": {
+    "123": {
       "api": "http://cj.lziapi.com/api.php/provide/vod",
       "name": "乐子HTTP",
       "detail": ""
     },
-    "129": {
+    "124": {
       "name": "🎬如意资源",
       "api": "https://pz.v88.qzz.io/?url=https://cj.rycjapi.com/api.php/provide/vod",
       "detail": "https://www.ryzyw.com"
     },
-    "130": {
+    "125": {
       "api": "https://cj.rycjapi.com/api.php/provide/vod",
       "name": "TV-如意资源",
       "detail": ""
     },
-    "131": {
+    "126": {
       "api": "https://www.iqiyizyapi.com/api.php/provide/vod",
       "name": "iqiyi资源"
     },
-    "132": {
+    "127": {
       "api": "http://ffzy1.tv/api.php/provide/vod",
       "name": "非凡线路1",
       "detail": ""
     },
-    "133": {
+    "128": {
       "name": "神马资源",
       "api": "https://img.smdyw.top/api.php/provide/vod",
       "detail": "https://img.smdyw.top"
     },
-    "134": {
+    "129": {
       "api": "https://www.siwazyw.tv/api.php/provide/vod/at/json",
       "name": "丝袜资源",
       "detail": "https://www.siwazyw.tv"
+    },
+    "130": {
+      "api": "https://www.xrbsp.com/api/json.php",
+      "name": "AV-淫水机资源",
+      "detail": "https://www.xrbsp.com",
+      "is_adult": true
+    },
+    "131": {
+      "api": "https://www.kxgav.com/api/json.php",
+      "name": "AV-白嫖资源",
+      "detail": "https://www.kxgav.com",
+      "is_adult": true
+    },
+    "132": {
+      "api": "https://www.msnii.com/api/json.php",
+      "name": "AV-美少女资源",
+      "detail": "https://www.msnii.com",
+      "is_adult": true
+    },
+    "133": {
+      "api": "https://www.gdlsp.com/api/json.php",
+      "name": "AV-香奶儿资源",
+      "detail": "https://www.gdlsp.com",
+      "is_adult": true
+    },
+    "134": {
+      "api": "https://www.pgxdy.com/api/json.php",
+      "name": "AV-黄AV资源",
+      "detail": "https://www.pgxdy.com",
+      "is_adult": true
+    },
+    "135": {
+      "api": "https://www.qiqidys.com/api.php/provide/vod/",
+      "name": "七七影视",
+      "is_adult": false
+    },
+    "136": {
+      "api": "http://by.bfzyapi.com/api.php/provide/vod",
+      "name": "暴风资源2",
+      "detail": ""
     }
   },
   "custom_category": [
@@ -793,11 +811,6 @@
       "name": "纪录片",
       "type": "tv",
       "query": "纪录片"
-    },
-    {
-      "name": "治愈",
-      "type": "movie",
-      "query": "治愈"
     }
   ]
 }
