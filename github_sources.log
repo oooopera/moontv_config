@@ -7898,3 +7898,31 @@
 [2026-06-11 04:00:47] ✅ 解析成功 - https://raw.githubusercontent.com/zourjke/drpy-node/0c8fba17f2c27bf435b142c124ef2da2aa4809a1/scripts/mjs/moontv.json - 作者: zourjke, 更新时间: unknown, 大小: 0.0 KB
 [2026-06-11 04:00:47] ✅ 解析成功 - https://raw.githubusercontent.com/hafrey1/LunaTV-config/3014040227ac30af1194d473da0280324c9cd6c4/LunaTV-config.json - 作者: hafrey1, 更新时间: unknown, 大小: 0.0 KB
 [2026-06-11 04:00:47] ✅ 解析成功 - https://raw.githubusercontent.com/kingiu/LunaTV-config/347b35b0f8f908f35acf11b8c525743c8b8665cc/jingjian.json - 作者: kingiu, 更新时间: unknown, 大小: 0.0 KB
+[2026-06-12 04:01:02] ✅ 解析成功 - https://raw.githubusercontent.com/hafrey1/LunaTV-config/ae48a3833749f16f98ff159e112e8cc213359501/jin18.json - 作者: hafrey1, 更新时间: unknown, 大小: 0.0 KB
+[2026-06-12 04:01:03] ❌ JSON语法错误 - https://raw.githubusercontent.com/oooopera/moontv_config/cc142aad9d8cc72731d68cd812b57906166d5009/debug_config.json - Expecting value: line 151 column 1 (char 5001)
+[2026-06-12 04:01:04] ✅ 解析成功 - https://raw.githubusercontent.com/katelya77/KatelyaTV/fc78bb11c026285d1b66e841b227e6171574956c/config.json - 作者: katelya77, 更新时间: unknown, 大小: 0.0 KB
+[2026-06-12 04:01:04] ✅ 解析成功 - https://raw.githubusercontent.com/yangbvv/yangbvv.github.io/8c7f929cee85d976743e57b8c78605e55ebb931c/moontv.json - 作者: yangbvv, 更新时间: unknown, 大小: 0.0 KB
+[2026-06-12 04:01:04] ✅ 解析成功 - https://raw.githubusercontent.com/Xylonium/TV-LIVE/46746d3b58f5a3387de2304001643cebba746fea/moon/xons.json - 作者: Xylonium, 更新时间: unknown, 大小: 0.0 KB
+[2026-06-12 04:01:05] ✅ 解析成功 - https://raw.githubusercontent.com/iphoneten/CNTV/f48f96006b6a19a40e879237b664823da657420f/config_backup.json - 作者: iphoneten, 更新时间: unknown, 大小: 0.0 KB
+[2026-06-12 04:01:05] ✅ 解析成功 - https://raw.githubusercontent.com/daihuan0612/tvyuan/6fab3e33a5187869333334fb97ff7efd21ce4079/LunaTV-config.json - 作者: daihuan0612, 更新时间: unknown, 大小: 0.0 KB
+[2026-06-12 04:01:05] ✅ 解析成功 - https://raw.githubusercontent.com/kingiu/LunaTV-config/f8ce8d94b9333837d2166b43b0214f5115fafcd2/jin18.json - 作者: kingiu, 更新时间: unknown, 大小: 0.0 KB
+[2026-06-12 04:01:05] ✅ 解析成功 - https://raw.githubusercontent.com/adminlove520/Source-Collector/da3d2aa35c3b0b47bc3b74c3431b6e6a68e51f03/config_isadult.json - 作者: adminlove520, 更新时间: unknown, 大小: 0.0 KB
+[2026-06-12 04:01:05] ✅ 解析成功 - https://raw.githubusercontent.com/Pundsup/Live/ad4ce0fcca315ba5567f176b49d7df955eb2d08b/yszyby.json - 作者: Pundsup, 更新时间: unknown, 大小: 0.0 KB
+[2026-06-12 04:01:05] ✅ 解析成功 - https://raw.githubusercontent.com/Nesciasnenion/helloworld/e568767225f29888e851c05bc86c096c3ab9bafc/moontv-config-all.json - 作者: Nesciasnenion, 更新时间: unknown, 大小: 0.0 KB
+[2026-06-12 04:01:05] ✅ 解析成功 - https://raw.githubusercontent.com/tud8951/config.json/6c1daa0ef2d62ce70a303c596ae88d162e1daa7f/config.json - 作者: tud8951, 更新时间: unknown, 大小: 0.0 KB
+[2026-06-12 04:01:06] ✅ 解析成功 - https://raw.githubusercontent.com/louis779/moontyv/0fe913bafef02036b393feed5683349145c9480a/config.json - 作者: louis779, 更新时间: unknown, 大小: 0.0 KB
+[2026-06-12 04:01:06] ❌ JSON语法错误 - https://raw.githubusercontent.com/atutde5net/Sun/f2ada4bcbb4e39b204e6eb3d1a7fe8924b20cfb5/package.json - Expecting ':' delimiter: line 11 column 13 (char 213)
+[2026-06-12 04:01:06] ✅ 解析成功 - https://raw.githubusercontent.com/hafrey1/LunaTV-config/ae48a3833749f16f98ff159e112e8cc213359501/jingjian.json - 作者: hafrey1, 更新时间: unknown, 大小: 0.0 KB
+[2026-06-12 04:01:06] ✅ 解析成功 - https://raw.githubusercontent.com/yuanwangokk-1/drpy-node/6d986696d6d8509197ed2285adf429c87c1756d6/drpy-node/scripts/mjs/moontv.json - 作者: yuanwangokk-1, 更新时间: unknown, 大小: 0.0 KB
+[2026-06-12 04:01:06] ✅ 解析成功 - https://raw.githubusercontent.com/SCXSVIP/TV/2dcfcae52f1a7886854fcd970b5271c1023df4b7/MoonTV/MoonTV-xs.json - 作者: SCXSVIP, 更新时间: unknown, 大小: 0.0 KB
+[2026-06-12 04:01:06] ✅ 解析成功 - https://raw.githubusercontent.com/haogege8888/KatelyaTV/e58837e6b5dcc4d7d112e05e1d9bda3e9b3bf992/config.example.json - 作者: haogege8888, 更新时间: unknown, 大小: 0.0 KB
+[2026-06-12 04:01:07] ✅ 解析成功 - https://raw.githubusercontent.com/qianqikun/LunaTV-config/eac2213a74fb51aa33fc09ef5dd13c8f95a7edb6/jingjian.json - 作者: qianqikun, 更新时间: unknown, 大小: 0.0 KB
+[2026-06-12 04:01:07] ✅ 解析成功 - https://raw.githubusercontent.com/chat263/tvjson/45dbc00aebda1642a95c20be2b5a0bda61a60e78/m.json - 作者: chat263, 更新时间: unknown, 大小: 0.0 KB
+[2026-06-12 04:01:07] ✅ 解析成功 - https://raw.githubusercontent.com/Mikephie/Script/0a66073ebe7a7efb2d12d7b5ea9091751c293430/config-2.json - 作者: Mikephie, 更新时间: unknown, 大小: 0.0 KB
+[2026-06-12 04:01:07] ✅ 解析成功 - https://raw.githubusercontent.com/xiaogtianger/kvideo-json/562c07d8486bed2967eedb2f92b0a5b3d15c40bc/ouotv/ouonnki-tv-sources-2026-03-21.json - 作者: xiaogtianger, 更新时间: unknown, 大小: 0.0 KB
+[2026-06-12 04:01:07] ✅ 解析成功 - https://raw.githubusercontent.com/RikkaLzw/LeeupTV/55dbf5630216ccf911ca75b2ec9e6a16197ca4b1/config.json - 作者: RikkaLzw, 更新时间: unknown, 大小: 0.0 KB
+[2026-06-12 04:01:07] ✅ 解析成功 - https://raw.githubusercontent.com/chtsen/chtsen-cfcdn-file/4dcd0a4eb6ffe876fcc0532906f5603aa850d492/LunaTV/configx.json - 作者: chtsen, 更新时间: unknown, 大小: 0.0 KB
+[2026-06-12 04:01:07] ✅ 解析成功 - https://raw.githubusercontent.com/616310/LunaTV-proxy/ad59d5763f4efd2294301cd96ff9804865ebb65c/config/default-config.json - 作者: 616310, 更新时间: unknown, 大小: 0.0 KB
+[2026-06-12 04:01:08] ✅ 解析成功 - https://raw.githubusercontent.com/gxnas/TvBox/2d7a584cb44cfdf857b1fb8f04ae8f9167b05b30/LunaTV.json - 作者: gxnas, 更新时间: unknown, 大小: 0.0 KB
+[2026-06-12 04:01:08] ✅ 解析成功 - https://raw.githubusercontent.com/wokaotianshi123/jgcj/2bf28bdfc759b1ad050fbdb525ca3ddfcb306ff6/libretv.json - 作者: wokaotianshi123, 更新时间: unknown, 大小: 0.0 KB
+[2026-06-12 04:01:08] ✅ 解析成功 - https://raw.githubusercontent.com/chtsen/chtsen-cfcdn-file/4dcd0a4eb6ffe876fcc0532906f5603aa850d492/LunaTV/configy.json - 作者: chtsen, 更新时间: unknown, 大小: 0.0 KB
