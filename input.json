@@ -537,6 +537,96 @@
       "api": "https://360zy.com/api.php/provide/vod?",
       "detail": "https://360zy.com/api.php/provide/vod?",
       "is_adult": false
+    },
+    "107": {
+      "name": "🎬新浪资源",
+      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
+      "detail": "https://xinlangapi.com"
+    },
+    "108": {
+      "name": "🎬速播资源",
+      "api": "https://subocaiji.com/api.php/provide/vod",
+      "detail": "https://www.subozy.com"
+    },
+    "109": {
+      "name": "🎬金鹰点播",
+      "api": "https://jyzyapi.com/provide/vod/from/jinyingyun/at/json",
+      "detail": "https://jinyingzy.com"
+    },
+    "110": {
+      "name": "🎬红牛资源",
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod",
+      "detail": "https://www.hongniuzy.com"
+    },
+    "111": {
+      "name": "🎬豪华资源",
+      "api": "https://hhzyapi.com/api.php/provide/vod",
+      "detail": "https://www.haohuazy.com"
+    },
+    "112": {
+      "api": "https://www.huyaapi.com/api.php/provide/vod",
+      "name": "虎牙资源",
+      "detail": "https://www.huyaapi.com",
+      "is_adult": false
+    },
+    "113": {
+      "api": "https://jyzyapi.com/api.php/provide/vod",
+      "name": "金鹰资源",
+      "detail": "https://jyzyapi.com",
+      "is_adult": false
+    },
+    "114": {
+      "api": "https://www.hongniuzy3.com/api.php/provide/vod",
+      "name": "红牛资源",
+      "detail": "https://www.hongniuzy3.com",
+      "is_adult": false
+    },
+    "115": {
+      "api": "https://jyzyapi.com/provide/vod",
+      "name": "金鹰资源",
+      "detail": "https://jyzyapi.com",
+      "is_adult": false
+    },
+    "116": {
+      "name": "🎬 虎牙资源",
+      "api": "https://www.huyaapi.com/api.php/provide/vod/at/json",
+      "detail": "https://www.huyaapi.com"
+    },
+    "117": {
+      "name": "🎬豪华资源",
+      "api": "https://pz.v88.qzz.io/?url=https://hhzyapi.com/api.php/provide/vod",
+      "detail": "https://www.haohuazy.com"
+    },
+    "118": {
+      "api": "http://api.xinlangapi.com/xinlangapi.php/provide/vod",
+      "name": "新浪资源",
+      "detail": ""
+    },
+    "119": {
+      "api": "http://ffzy1.tv/api.php/provide/vod",
+      "name": "非凡线路1",
+      "detail": ""
+    },
+    "120": {
+      "api": "https://api.1080zyku.com/inc/apijson.php",
+      "name": "1080JSON",
+      "detail": ""
+    },
+    "121": {
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
+      "name": "红牛|点播"
+    },
+    "122": {
+      "api": "https://www.huyaapi.com/api.php/provide/vod/",
+      "name": "虎牙|点播"
+    },
+    "123": {
+      "api": "https://subocaiji.com/api.php/provide/vod/",
+      "name": "速博|点播"
+    },
+    "124": {
+      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
+      "name": "新浪|点播"
     }
   },
   "custom_category": [
@@ -681,29 +771,9 @@
       "query": "纪录片"
     },
     {
-      "name": "犯罪",
-      "type": "movie",
-      "query": "犯罪"
-    },
-    {
-      "name": "战争",
-      "type": "movie",
-      "query": "战争"
-    },
-    {
-      "name": "西部",
-      "type": "movie",
-      "query": "西部"
-    },
-    {
       "name": "治愈",
       "type": "movie",
       "query": "治愈"
-    },
-    {
-      "name": "动漫",
-      "type": "tv",
-      "query": "日本动画"
     }
   ]
 }
