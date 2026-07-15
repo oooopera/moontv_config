@@ -667,6 +667,28 @@
       "name": "🔅红牛ᴴ",
       "is_adult": false,
       "detail": "https://hongniuzy2.com"
+    },
+    "132": {
+      "api": "https://www.gdlsp.com/api/xml.php",
+      "name": "🔞成人36",
+      "detail": "",
+      "is_adult": true
+    },
+    "133": {
+      "api": "http://zmcj88.com/api?ac=list",
+      "name": "🔞泡芙资源",
+      "detail": "",
+      "is_adult": true
+    },
+    "134": {
+      "api": "http://jcspcj8.com/api?ac=list",
+      "name": "🔞熊猫资源",
+      "detail": "",
+      "is_adult": true
+    },
+    "135": {
+      "name": "西瓜资源采集接口",
+      "api": "https://caiji.xgzyapi.com/api.php/provide/vod"
     }
   },
   "custom_category": [
