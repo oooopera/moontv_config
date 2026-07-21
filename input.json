@@ -628,6 +628,39 @@
       "name": "🔅77韩剧ᴴ",
       "is_adult": false,
       "detail": "https://www.77hanju.com"
+    },
+    "125": {
+      "name": "无尽资源1",
+      "api": "https://api.wujinapi.cc/api.php/provide/vod",
+      "detail": ""
+    },
+    "126": {
+      "name": "TV-无尽资源",
+      "api": "https://api.wujinapi.net/api.php/provide/vod",
+      "detail": ""
+    },
+    "127": {
+      "name": "白嫖资源",
+      "api": "https://www.kxgav.com/api/json.php",
+      "detail": "https://www.kxgav.com"
+    },
+    "128": {
+      "api": "https://taopianapi.com/cjapi/mc/vod/json.html",
+      "name": "淘片",
+      "detail": "https://www.taopianzy.com/index.html"
+    },
+    "129": {
+      "api": "https://api.wujinapi.com/api.php/provide/vod",
+      "name": "TV-无尽资源",
+      "detail": ""
+    },
+    "130": {
+      "api": "https://www.subocaiji.com/api.php/provide/vod",
+      "name": "速播"
+    },
+    "131": {
+      "api": "https://tyyszyapi.com/api.php/provide/vod/",
+      "name": "天涯影视"
     }
   },
   "custom_category": [
@@ -775,6 +808,26 @@
       "name": "治愈",
       "type": "movie",
       "query": "治愈"
+    },
+    {
+      "name": "犯罪",
+      "type": "movie",
+      "query": "犯罪"
+    },
+    {
+      "name": "战争",
+      "type": "movie",
+      "query": "战争"
+    },
+    {
+      "name": "西部",
+      "type": "movie",
+      "query": "西部"
+    },
+    {
+      "name": "动漫",
+      "type": "tv",
+      "query": "日本动画"
     }
   ]
 }
