@@ -624,6 +624,15 @@
     "125": {
       "api": "https://caiji.kuaichezy.org/api.php/provide",
       "name": "快车资源阿"
+    },
+    "126": {
+      "name": "AV-香奶儿资源",
+      "api": "https://www.gdlsp.com/api/json.php",
+      "detail": "https://www.gdlsp.com"
+    },
+    "127": {
+      "name": "大众资源采集接口",
+      "api": "https://cdn.dzzyapi.com/api.php/provide/vod"
     }
   },
   "custom_category": [
