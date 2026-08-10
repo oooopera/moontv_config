@@ -556,57 +556,33 @@
       "detail": "https://gayapi.com"
     },
     "112": {
-      "api": "https://taopianapi.com/cjapi/mc10/vod/json.html",
-      "name": "TV-淘片资源",
-      "detail": "https://www.taopianzy.com/help.html"
-    },
-    "113": {
-      "api": "https://api.wujinapi.cc/api.php/provide/vod",
-      "name": "无尽资源4",
-      "detail": "",
-      "is_adult": false
-    },
-    "114": {
-      "api": "https://api.wujinapi.net/api.php/provide/vod",
-      "name": "无尽资源3",
-      "detail": "",
-      "is_adult": false
-    },
-    "115": {
-      "name": "🎬-爱奇艺-",
-      "api": "https://iqiyizyapi.com/api.php/provide/vod",
-      "detail": "https://iqiyizyapi.com"
-    },
-    "116": {
       "name": "🎬豆瓣资源",
       "api": "https://caiji.dbzy5.com/api.php/provide/vod",
       "detail": "https://dbzy.tv"
     },
-    "117": {
+    "113": {
       "api": "https://dbzy.tv/api.php/provide/vod",
       "name": "豆瓣资源"
     },
-    "118": {
+    "114": {
       "name": "西瓜资源采集接口",
       "api": "https://caiji.xgzyapi.com/api.php/provide/vod"
     },
-    "119": {
+    "115": {
       "api": "https://huawei8.live/api.php/provide/vod",
       "name": "华为吧1",
       "detail": "",
       "is_adult": false
     },
-    "120": {
-      "api": "https://www.msnii.com/api/xml.php",
-      "name": "🔞成人46",
-      "detail": "",
-      "is_adult": true
+    "116": {
+      "api": "https://www.iqiyizyapi.com/api.php/provide/vod",
+      "name": "iqiyi资源"
     },
-    "121": {
-      "api": "https://www.xrbsp.com/api/xml.php",
-      "name": "🔞成人66",
+    "117": {
+      "api": "https://dbzy.com/api.php/provide/vod",
+      "name": "豆瓣资源3",
       "detail": "",
-      "is_adult": true
+      "is_adult": false
     }
   },
   "custom_category": [
