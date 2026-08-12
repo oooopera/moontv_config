@@ -570,25 +570,35 @@
       "detail": "https://jinyingzy.com"
     },
     "115": {
-      "api": "https://taopianapi.com/cjapi/mc10/vod/json.html",
-      "name": "TV-淘片资源",
-      "detail": "https://www.taopianzy.com/help.html"
-    },
-    "116": {
       "api": "https://api.wujinapi.cc/api.php/provide/vod",
       "name": "无尽资源4",
       "detail": "",
       "is_adult": false
     },
-    "117": {
+    "116": {
       "api": "https://api.wujinapi.net/api.php/provide/vod",
       "name": "无尽资源3",
       "detail": "",
       "is_adult": false
     },
+    "117": {
+      "name": "🎬量子资源",
+      "api": "https://cj.lzcaiji.com/api.php/provide/vod",
+      "detail": "https://cj.lzcaiji.com"
+    },
     "118": {
-      "api": "https://www.kxgav.com/api/xml.php",
-      "name": "🔞成人44",
+      "_comment": "备用",
+      "name": "🎬量子影视",
+      "api": "https://cj.lziapi.com/api.php/provide/vod",
+      "detail": "https://lzizy.net"
+    },
+    "119": {
+      "api": "https://cj.lziapi.com/api.php/provide/vod/",
+      "name": "TV-影视工厂"
+    },
+    "120": {
+      "api": "http://www.feifei67.com/api.php/provide/vod",
+      "name": "🔞成人22",
       "detail": "",
       "is_adult": true
     }
