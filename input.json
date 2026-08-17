@@ -464,86 +464,81 @@
       "name": "360资源"
     },
     "94": {
-      "api": "https://gayapi.com/api.php/provide/vod",
-      "name": "AV-快播资源",
-      "detail": "https://gayapi.com"
-    },
-    "95": {
       "api": "https://dbzy.tv/api.php/provide/vod",
       "name": "豆瓣资源"
     },
-    "96": {
+    "95": {
       "api": "https://huawei8.live/api.php/provide/vod",
       "name": "华为吧1",
       "detail": "",
       "is_adult": false
     },
-    "97": {
+    "96": {
       "api": "https://dbzy.com/api.php/provide/vod",
       "name": "豆瓣资源3",
       "detail": "",
       "is_adult": false
     },
-    "98": {
+    "97": {
       "api": "https://api.wujinapi.cc/api.php/provide/vod",
       "name": "无尽资源4",
       "detail": "",
       "is_adult": false
     },
-    "99": {
+    "98": {
       "api": "https://api.wujinapi.net/api.php/provide/vod",
       "name": "无尽资源3",
       "detail": "",
       "is_adult": false
     },
-    "100": {
+    "99": {
       "_comment": "备用",
       "name": "🎬量子影视",
       "api": "https://cj.lziapi.com/api.php/provide/vod",
       "detail": "https://lzizy.net"
     },
-    "101": {
+    "100": {
       "api": "https://cj.lziapi.com/api.php/provide/vod/",
       "name": "TV-影视工厂"
     },
-    "102": {
+    "101": {
       "name": "🎬豆瓣资源",
       "api": "https://caiji.dbzy5.com/api.php/provide/vod",
       "detail": "https://dbzy.tv"
     },
-    "103": {
+    "102": {
       "name": "🎬量子资源",
       "api": "https://cj.lzcaiji.com/api.php/provide/vod",
       "detail": "https://cj.lzcaiji.com"
     },
-    "104": {
+    "103": {
       "name": "🎬金鹰点播",
       "api": "https://jinyingzy.com/api.php/provide/vod",
       "detail": "https://jinyingzy.com"
     },
-    "105": {
+    "104": {
       "name": "🎬-爱奇艺-",
       "api": "https://iqiyizyapi.com/api.php/provide/vod",
       "detail": "https://iqiyizyapi.com"
     },
-    "106": {
+    "105": {
       "_comment": "备用",
       "name": "🎬无尽影视",
       "api": "https://api.wujinapi.com/api.php/provide/vod",
       "detail": "https://wujinzy.com"
     },
-    "107": {
+    "106": {
       "_comment": "无法搜索",
       "name": "🔞白嫖资源",
       "api": "https://www.kxgav.com/api/json.php",
       "detail": "https://www.kxgav.com"
     },
-    "108": {
+    "107": {
       "name": "AV-香奶儿资源",
       "api": "https://www.gdlsp.com/api/json.php",
       "detail": "https://www.gdlsp.com"
     },
-    "109": {
+    "108": {
       "api": "https://taopianapi.com/cjapi/mc10/vod/json.html",
       "name": "TV-淘片资源",
       "detail": "https://www.taopianzy.com/help.html"
@@ -687,56 +682,6 @@
     },
     {
       "name": "纪录片",
-      "type": "tv",
-      "query": "纪录片"
-    },
-    {
-      "name": "犯罪",
-      "type": "movie",
-      "query": "犯罪"
-    },
-    {
-      "name": "战争",
-      "type": "movie",
-      "query": "战争"
-    },
-    {
-      "name": "西部",
-      "type": "movie",
-      "query": "西部"
-    },
-    {
-      "name": "治愈",
-      "type": "movie",
-      "query": "治愈"
-    },
-    {
-      "name": "动漫",
-      "type": "tv",
-      "query": "日本动画"
-    },
-    {
-      "name": "奇幻",
-      "type": "movie",
-      "query": "奇幻"
-    },
-    {
-      "name": "惊悚",
-      "type": "movie",
-      "query": "惊悚"
-    },
-    {
-      "name": "灾难",
-      "type": "movie",
-      "query": "灾难"
-    },
-    {
-      "name": "国产",
-      "type": "tv",
-      "query": "国产剧"
-    },
-    {
-      "name": "纪录",
       "type": "tv",
       "query": "纪录片"
     }
