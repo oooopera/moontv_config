@@ -527,60 +527,66 @@
       "detail": "https://www.taopianzy.com/help.html"
     },
     "106": {
-      "name": "🎬茅台资源",
-      "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
-      "detail": "https://mtzy.me"
-    },
-    "107": {
       "name": "🎬如意资源",
       "api": "https://cj.rycjapi.com/api.php/provide/vod",
       "detail": "https://www.ryzyw.com"
     },
-    "108": {
+    "107": {
       "_comment": "无法搜索",
       "name": "🎬优质资源",
       "api": "https://api.yzzy-api.com/inc/apijson.php",
       "detail": "https://1080zyk4.com"
     },
-    "109": {
+    "108": {
       "api": "http://cj.rycjapi.com/api.php/provide/vod",
       "name": "如意资源"
     },
-    "110": {
+    "109": {
       "name": "TV-1080资源库",
       "api": "https://api.1080zyku.com/inc/api_mac10.php",
       "detail": "https://api.1080zyku.com"
     },
-    "111": {
+    "110": {
       "name": "TV-神马云",
       "api": "https://api.1080zyku.com/inc/apijson.php",
       "detail": "https://api.1080zyku.com"
     },
-    "112": {
+    "111": {
       "api": "https://www.iqiyizyapi.com/api.php/provide/vod",
       "name": "iqiyi资源"
     },
-    "113": {
+    "112": {
       "api": "https://api.1080zyku.com/inc/apijson.php/",
       "name": "1080资源",
       "detail": "https://api.1080zyku.com"
     },
-    "114": {
+    "113": {
       "api": "https://gayapi.com/api.php/provide/vod",
       "name": "AV-快播资源",
       "detail": "https://gayapi.com"
     },
-    "115": {
+    "114": {
       "api": "https://api.yzzy-api.com/inc/ldg_api_all.php/provide/vod",
       "name": "优质资源库",
       "detail": "",
       "is_adult": false
     },
+    "115": {
+      "_comment": "无法搜索",
+      "name": "🔞-美少女-",
+      "api": "https://www.msnii.com/api/json.php",
+      "detail": "https://www.msnii.com"
+    },
     "116": {
-      "api": "http://www.feifei67.com/api.php/provide/vod",
-      "name": "🔞成人22",
+      "name": "AV-香奶儿资源",
+      "api": "https://www.gdlsp.com/api/json.php",
+      "detail": "https://www.gdlsp.com"
+    },
+    "117": {
+      "api": "https://maoyanzy.com/api.php/provide/vod",
+      "name": "猫眼资源",
       "detail": "",
-      "is_adult": true
+      "is_adult": false
     }
   },
   "custom_category": [
