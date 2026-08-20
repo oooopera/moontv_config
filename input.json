@@ -561,32 +561,56 @@
       "detail": "https://api.1080zyku.com"
     },
     "113": {
-      "api": "https://gayapi.com/api.php/provide/vod",
-      "name": "AV-快播资源",
-      "detail": "https://gayapi.com"
-    },
-    "114": {
       "api": "https://api.yzzy-api.com/inc/ldg_api_all.php/provide/vod",
       "name": "优质资源库",
       "detail": "",
       "is_adult": false
     },
-    "115": {
+    "114": {
       "_comment": "无法搜索",
       "name": "🔞-美少女-",
       "api": "https://www.msnii.com/api/json.php",
       "detail": "https://www.msnii.com"
     },
-    "116": {
+    "115": {
       "name": "AV-香奶儿资源",
       "api": "https://www.gdlsp.com/api/json.php",
       "detail": "https://www.gdlsp.com"
     },
-    "117": {
+    "116": {
       "api": "https://maoyanzy.com/api.php/provide/vod",
       "name": "猫眼资源",
       "detail": "",
       "is_adult": false
+    },
+    "117": {
+      "name": "🎬茅台资源",
+      "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
+      "detail": "https://mtzy.me"
+    },
+    "118": {
+      "_comment": "无法搜索",
+      "name": "🔞-黄AVZY",
+      "api": "https://www.pgxdy.com/api/json.php",
+      "detail": "https://www.pgxdy.com"
+    },
+    "119": {
+      "api": "https://www.kxgav.com/api/xml.php",
+      "name": "🔞成人44",
+      "detail": "",
+      "is_adult": true
+    },
+    "120": {
+      "api": "http://jcspcj8.com/api?ac=list",
+      "name": "🔞熊猫资源",
+      "detail": "",
+      "is_adult": true
+    },
+    "121": {
+      "api": "http://cj.xinlangzy.com/api.php/provide/vod",
+      "name": "🔞新浪资源",
+      "detail": "",
+      "is_adult": true
     }
   },
   "custom_category": [
