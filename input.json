@@ -570,6 +570,12 @@
     "113": {
       "api": "https://cj.lziapi.com/api.php/provide/vod/",
       "name": "TV-影视工厂"
+    },
+    "114": {
+      "api": "http://jcspcj8.com/api?ac=list",
+      "name": "🔞熊猫资源",
+      "detail": "",
+      "is_adult": true
     }
   },
   "custom_category": [
