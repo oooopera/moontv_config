@@ -518,8 +518,13 @@
       "detail": "https://www.taopianzy.com/help.html"
     },
     "103": {
-      "api": "http://www.feifei67.com/api.php/provide/vod",
-      "name": "🔞成人22",
+      "api": "https://www.qilinzyz.com/api.php/provide/vod",
+      "name": "TV-麒麟资源",
+      "detail": "https://www.qilinzyz.com/"
+    },
+    "104": {
+      "api": "http://jcspcj8.com/api?ac=list",
+      "name": "🔞熊猫资源",
       "detail": "",
       "is_adult": true
     }
