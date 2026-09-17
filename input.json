@@ -495,13 +495,18 @@
       "detail": "https://okzyw.cc/index.php/label/help.html"
     },
     "98": {
-      "name": "🔞jkun资源",
-      "api": "https://jkunzyapi.com/api.php/provide/vod",
-      "detail": "https://jkunzyapi.com"
+      "name": "🎬飘零资源",
+      "api": "https://p2100.net/api.php/provide/vod",
+      "detail": "https://p2100.net"
     },
     "99": {
-      "api": "https://www.msnii.com/api/xml.php",
-      "name": "🔞成人46",
+      "name": "AV-香奶儿资源",
+      "api": "https://www.gdlsp.com/api/json.php",
+      "detail": "https://www.gdlsp.com"
+    },
+    "100": {
+      "api": "http://zmcj88.com/api?ac=list",
+      "name": "🔞泡芙资源",
       "detail": "",
       "is_adult": true
     }
