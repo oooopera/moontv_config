@@ -452,45 +452,34 @@
       "detail": "https://www.taopianzy.com/help.html"
     },
     "90": {
-      "_comment": "无法搜索",
-      "name": "🔞-美少女-",
-      "api": "https://www.msnii.com/api/json.php",
-      "detail": "https://www.msnii.com"
-    },
-    "91": {
       "name": "🎬-爱奇艺-",
       "api": "https://iqiyizyapi.com/api.php/provide/vod",
       "detail": "https://iqiyizyapi.com"
     },
-    "92": {
+    "91": {
       "_comment": "暂不支持搜索",
       "name": "🎬快车资源",
       "api": "https://caiji.kuaichezy.org/api.php/provide/vod",
       "detail": "https://kuaichezy.com"
     },
-    "93": {
+    "92": {
       "name": "TV-牛牛点播",
       "api": "https://api.niuniuzy.me/api.php/provide/vod",
       "detail": "https://api.niuniuzy.me"
     },
-    "94": {
+    "93": {
       "api": "https://api.okzyw.net/api.php/provide/vod",
       "name": "TV-OK资源",
       "detail": "https://okzyw.cc/index.php/label/help.html"
     },
-    "95": {
-      "name": "🎬飘零资源",
-      "api": "https://p2100.net/api.php/provide/vod",
-      "detail": "https://p2100.net"
-    },
-    "96": {
+    "94": {
       "name": "AV-香奶儿资源",
       "api": "https://www.gdlsp.com/api/json.php",
       "detail": "https://www.gdlsp.com"
     },
-    "97": {
-      "api": "http://zmcj88.com/api?ac=list",
-      "name": "🔞泡芙资源",
+    "95": {
+      "api": "http://www.feifei67.com/api.php/provide/vod",
+      "name": "🔞成人22",
       "detail": "",
       "is_adult": true
     }
