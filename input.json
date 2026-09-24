@@ -417,8 +417,90 @@
       "detail": "https://www.pgxdy.com"
     },
     "83": {
-      "api": "http://jcspcj8.com/api?ac=list",
-      "name": "🔞熊猫资源",
+      "name": "🎬新浪资源",
+      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
+      "detail": "https://xinlangapi.com"
+    },
+    "84": {
+      "name": "🎬速播资源",
+      "api": "https://subocaiji.com/api.php/provide/vod",
+      "detail": "https://www.subozy.com"
+    },
+    "85": {
+      "name": "🎬金鹰点播",
+      "api": "https://jyzyapi.com/provide/vod/from/jinyingyun/at/json",
+      "detail": "https://jinyingzy.com"
+    },
+    "86": {
+      "name": "🎬红牛资源",
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod",
+      "detail": "https://www.hongniuzy.com"
+    },
+    "87": {
+      "name": "🎬豪华资源",
+      "api": "https://hhzyapi.com/api.php/provide/vod",
+      "detail": "https://www.haohuazy.com"
+    },
+    "88": {
+      "_comment": "污染搜索结果",
+      "name": "🎬虎牙资源",
+      "api": "https://www.huyaapi.com/api.php/provide/vod",
+      "detail": "https://www.huyaapi.com"
+    },
+    "89": {
+      "api": "https://jyzyapi.com/provide/vod",
+      "name": "金鹰资源"
+    },
+    "90": {
+      "api": "https://subocj.com/api.php/provide/vod",
+      "name": "速播资源"
+    },
+    "91": {
+      "name": "🎬金鹰点播",
+      "api": "https://jinyingzy.com/api.php/provide/vod",
+      "detail": "https://jinyingzy.com"
+    },
+    "92": {
+      "name": "TV-金鹰资源",
+      "api": "https://jyzyapi.com/api.php/provide/vod",
+      "detail": "https://jyzyapi.com"
+    },
+    "93": {
+      "name": "TV-新浪资源",
+      "api": "http://api.xinlangapi.com/xinlangapi.php/provide/vod",
+      "detail": "http://api.xinlangapi.com"
+    },
+    "94": {
+      "name": "TV-牛牛点播",
+      "api": "https://www.hongniuzy3.com/api.php/provide/vod",
+      "detail": "https://www.hongniuzy.com"
+    },
+    "95": {
+      "name": "🎬虎牙资源",
+      "api": "https://www.huyaapi.com/api.php/provide/vod/at/json",
+      "detail": "https://www.huyaapi.com"
+    },
+    "96": {
+      "api": "https://www.xrbsp.com/api/xml.php",
+      "name": "🔞成人66",
+      "detail": "",
+      "is_adult": true
+    },
+    "97": {
+      "api": "https://hhzyapi.com/api.php/provide/vod/from/hhm3u8/at/json",
+      "name": "🔞豪华资源",
+      "detail": "",
+      "is_adult": true
+    },
+    "98": {
+      "api": "https://jyzyapi.com/provide/vod/from/jinyingm3u8/at/json",
+      "name": "🔞金鹰资源3",
+      "detail": "",
+      "is_adult": true
+    },
+    "99": {
+      "api": "http://zmcj88.com/api?ac=list",
+      "name": "🔞泡芙资源",
       "detail": "",
       "is_adult": true
     }
