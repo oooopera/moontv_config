@@ -466,10 +466,26 @@
       "detail": "https://www.kxgav.com"
     },
     "93": {
-      "api": "http://zmcj88.com/api?ac=list",
-      "name": "🔞泡芙资源",
-      "detail": "",
-      "is_adult": true
+      "name": "🎬-爱奇艺-",
+      "api": "https://iqiyizyapi.com/api.php/provide/vod",
+      "detail": "https://iqiyizyapi.com"
+    },
+    "94": {
+      "_comment": "无法搜索",
+      "name": "🔞-美少女-",
+      "api": "https://www.msnii.com/api/json.php",
+      "detail": "https://www.msnii.com"
+    },
+    "95": {
+      "_comment": "无法搜索",
+      "name": "🔞-黄AVZY",
+      "api": "https://www.pgxdy.com/api/json.php",
+      "detail": "https://www.pgxdy.com"
+    },
+    "96": {
+      "api": "https://taopianapi.com/cjapi/mc10/vod/json.html",
+      "name": "TV-淘片资源",
+      "detail": "https://www.taopianzy.com/help.html"
     }
   },
   "custom_category": [
