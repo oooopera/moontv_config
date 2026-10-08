@@ -464,8 +464,23 @@
       "detail": "https://www.gdlsp.com"
     },
     "92": {
-      "api": "http://zmcj88.com/api?ac=list",
-      "name": "🔞泡芙资源",
+      "_comment": "无法搜索",
+      "name": "🔞-黄AVZY",
+      "api": "https://www.pgxdy.com/api/json.php",
+      "detail": "https://www.pgxdy.com"
+    },
+    "93": {
+      "name": "AV-饮水机资源",
+      "api": "https://www.xrbsp.com/api/json.php",
+      "detail": "https://www.xrbsp.com"
+    },
+    "94": {
+      "api": "https://www.iqiyizyapi.com/api.php/provide/vod",
+      "name": "iqiyi资源"
+    },
+    "95": {
+      "api": "http://jcspcj8.com/api?ac=list",
+      "name": "🔞熊猫资源",
       "detail": "",
       "is_adult": true
     }
