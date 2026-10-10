@@ -468,28 +468,45 @@
       "name": "iqiyi资源"
     },
     "93": {
-      "api": "http://jcspcj8.com/api?ac=list",
-      "name": "🔞熊猫资源",
-      "detail": "",
-      "is_adult": true
-    },
-    "94": {
       "_comment": "无搜索结果",
       "name": "🔞 CK-资源",
       "api": "https://ckzy.me/api.php/provide/vod",
       "detail": "https://ckzy.me"
     },
-    "95": {
+    "94": {
       "api": "https://www.ckzy1.com/api.php/provide/vod",
       "name": "🔞CK资源",
       "detail": "",
       "is_adult": true
     },
+    "95": {
+      "name": "🎬猫眼资源",
+      "api": "https://api.maoyanapi.top/api.php/provide/vod",
+      "detail": "https://www.maoyanzy.com"
+    },
     "96": {
-      "api": "https://www.pgxdy.com/api/xml.php",
-      "name": "🔞黄AV资源1",
+      "api": "https://maoyanzy.com/api.php/provide/vod",
+      "name": "猫眼资源",
+      "detail": "",
+      "is_adult": false
+    },
+    "97": {
+      "api": "https://www.kxgav.com/api/xml.php",
+      "name": "🔞成人44",
       "detail": "",
       "is_adult": true
+    },
+    "98": {
+      "name": "大众资源采集接口",
+      "api": "https://cdn.dzzyapi.com/api.php/provide/vod"
+    },
+    "99": {
+      "name": "无水印资源网采集接口",
+      "api": "https://api.wsyzy.net/api.php/provide/vod"
+    },
+    "100": {
+      "name": "OK资源采集网采集接口",
+      "api": "http://api.okzyw.net/api.php/provide/vod"
     }
   },
   "custom_category": [
