@@ -447,19 +447,29 @@
       "detail": "http://api.xinlangapi.com"
     },
     "89": {
-      "name": "AV-香奶儿资源",
-      "api": "https://www.gdlsp.com/api/json.php",
-      "detail": "https://www.gdlsp.com"
-    },
-    "90": {
       "name": "🎬虎牙资源",
       "api": "https://www.huyaapi.com/api.php/provide/vod/at/json",
       "detail": "https://www.huyaapi.com"
     },
+    "90": {
+      "name": "🎬-爱奇艺-",
+      "api": "https://iqiyizyapi.com/api.php/provide/vod",
+      "detail": "https://iqiyizyapi.com"
+    },
     "91": {
-      "api": "https://taopianapi.com/cjapi/mc10/vod/json.html",
-      "name": "TV-淘片资源",
-      "detail": "https://www.taopianzy.com/help.html"
+      "name": "AV-饮水机资源",
+      "api": "https://www.xrbsp.com/api/json.php",
+      "detail": "https://www.xrbsp.com"
+    },
+    "92": {
+      "api": "https://www.iqiyizyapi.com/api.php/provide/vod",
+      "name": "iqiyi资源"
+    },
+    "93": {
+      "api": "https://www.msnii.com/api/xml.php",
+      "name": "🔞成人46",
+      "detail": "",
+      "is_adult": true
     }
   },
   "custom_category": [
