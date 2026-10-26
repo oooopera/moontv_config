@@ -395,59 +395,52 @@
       "detail": "https://iqiyizyapi.com"
     },
     "80": {
-      "name": "🎬无尽资源",
-      "api": "https://api.wujinapi.me/api.php/provide/vod",
-      "detail": "https://wujinzy.com"
-    },
-    "81": {
-      "_comment": "备用",
-      "name": "🎬无尽影视",
-      "api": "https://api.wujinapi.com/api.php/provide/vod",
-      "detail": "https://wujinzy.com"
-    },
-    "82": {
       "_comment": "暂不支持搜索",
       "name": "🎬索尼资源",
       "api": "https://suoniapi.com/api.php/provide/vod",
       "detail": "https://suonizy.net"
     },
-    "83": {
+    "81": {
       "_comment": "无法搜索",
       "name": "🔞-黄AVZY",
       "api": "https://www.pgxdy.com/api/json.php",
       "detail": "https://www.pgxdy.com"
     },
-    "84": {
-      "api": "https://api.wujinapi.cc/api.php/provide/vod",
-      "name": "无尽资源4",
-      "detail": "",
-      "is_adult": false
-    },
-    "85": {
-      "api": "https://api.wujinapi.net/api.php/provide/vod",
-      "name": "无尽资源3",
-      "detail": "",
-      "is_adult": false
-    },
-    "86": {
+    "82": {
       "name": "🎬茅台资源",
       "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
       "detail": "https://mtzy.me"
     },
-    "87": {
+    "83": {
       "api": "http://dadiapi.com/api.php",
       "name": "🔞成人09",
       "detail": "",
       "is_adult": true
     },
-    "88": {
+    "84": {
       "name": "🎬猫眼资源",
       "api": "https://api.maoyanapi.top/api.php/provide/vod",
       "detail": "https://www.maoyanzy.com"
     },
-    "89": {
+    "85": {
       "api": "https://www.iqiyizyapi.com/api.php/provide/vod",
       "name": "iqiyi资源"
+    },
+    "86": {
+      "name": "🎬量子资源",
+      "api": "https://cj.lzcaiji.com/api.php/provide/vod",
+      "detail": "https://cj.lzcaiji.com"
+    },
+    "87": {
+      "_comment": "备用",
+      "name": "🎬量子影视",
+      "api": "https://cj.lziapi.com/api.php/provide/vod",
+      "detail": "https://lzizy.net"
+    },
+    "88": {
+      "name": "AV-香奶儿资源",
+      "api": "https://www.gdlsp.com/api/json.php",
+      "detail": "https://www.gdlsp.com"
     }
   },
   "custom_category": [
