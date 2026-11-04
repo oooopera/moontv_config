@@ -490,8 +490,13 @@
       "is_adult": true
     },
     "97": {
-      "api": "https://www.pgxdy.com/api/xml.php",
-      "name": "🔞黄AV资源1",
+      "name": "AV-香奶儿资源",
+      "api": "https://www.gdlsp.com/api/json.php",
+      "detail": "https://www.gdlsp.com"
+    },
+    "98": {
+      "api": "http://www.feifei67.com/api.php/provide/vod",
+      "name": "🔞成人22",
       "detail": "",
       "is_adult": true
     }
