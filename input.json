@@ -464,39 +464,28 @@
       "name": "iqiyi资源"
     },
     "92": {
-      "api": "https://taopianapi.com/cjapi/mc10/vod/json.html",
-      "name": "TV-淘片资源",
-      "detail": "https://www.taopianzy.com/help.html"
-    },
-    "93": {
       "name": "🎬量子资源",
       "api": "https://cj.lzcaiji.com/api.php/provide/vod",
       "detail": "https://cj.lzcaiji.com"
     },
-    "94": {
+    "93": {
       "_comment": "备用",
       "name": "🎬量子影视",
       "api": "https://cj.lziapi.com/api.php/provide/vod",
       "detail": "https://lzizy.net"
     },
-    "95": {
+    "94": {
       "api": "https://cj.lziapi.com/api.php/provide/vod/",
       "name": "TV-影视工厂"
     },
-    "96": {
-      "api": "https://www.xrbsp.com/api/xml.php",
-      "name": "🔞成人66",
-      "detail": "",
-      "is_adult": true
-    },
-    "97": {
+    "95": {
       "name": "AV-香奶儿资源",
       "api": "https://www.gdlsp.com/api/json.php",
       "detail": "https://www.gdlsp.com"
     },
-    "98": {
-      "api": "http://www.feifei67.com/api.php/provide/vod",
-      "name": "🔞成人22",
+    "96": {
+      "api": "https://www.pgxdy.com/api/xml.php",
+      "name": "🔞黄AV资源1",
       "detail": "",
       "is_adult": true
     }
