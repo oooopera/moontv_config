@@ -422,28 +422,37 @@
       "detail": "https://www.taopianzy.com/help.html"
     },
     "84": {
-      "name": "🎬量子资源",
-      "api": "https://cj.lzcaiji.com/api.php/provide/vod",
-      "detail": "https://cj.lzcaiji.com"
-    },
-    "85": {
       "name": "🎬如意资源",
       "api": "https://cj.rycjapi.com/api.php/provide/vod",
       "detail": "https://www.ryzyw.com"
     },
-    "86": {
-      "_comment": "备用",
-      "name": "🎬量子影视",
-      "api": "https://cj.lziapi.com/api.php/provide/vod",
-      "detail": "https://lzizy.net"
-    },
-    "87": {
+    "85": {
       "api": "http://cj.rycjapi.com/api.php/provide/vod",
       "name": "如意资源"
     },
+    "86": {
+      "_comment": "备用",
+      "name": "🎬无尽影视",
+      "api": "https://api.wujinapi.com/api.php/provide/vod",
+      "detail": "https://wujinzy.com"
+    },
+    "87": {
+      "api": "https://api.wujinapi.cc/api.php/provide/vod",
+      "name": "无尽资源4",
+      "detail": "",
+      "is_adult": false
+    },
     "88": {
-      "api": "https://cj.lziapi.com/api.php/provide/vod/",
-      "name": "TV-影视工厂"
+      "api": "https://api.wujinapi.net/api.php/provide/vod",
+      "name": "无尽资源3",
+      "detail": "",
+      "is_adult": false
+    },
+    "89": {
+      "api": "http://jcspcj8.com/api?ac=list",
+      "name": "🔞熊猫资源",
+      "detail": "",
+      "is_adult": true
     }
   },
   "custom_category": [
