@@ -449,8 +449,13 @@
       "is_adult": false
     },
     "89": {
-      "api": "http://jcspcj8.com/api?ac=list",
-      "name": "🔞熊猫资源",
+      "name": "AV-饮水机资源",
+      "api": "https://www.xrbsp.com/api/json.php",
+      "detail": "https://www.xrbsp.com"
+    },
+    "90": {
+      "api": "https://www.pgxdy.com/api/xml.php",
+      "name": "🔞黄AV资源1",
       "detail": "",
       "is_adult": true
     }
